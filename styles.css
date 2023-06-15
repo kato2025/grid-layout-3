@@ -28,8 +28,7 @@
 .siteLogo {
   display: block;
   flex-shrink: 1;
-  width: 180px;
-  height: 120px;
+  width: 40%
 }
 .menu {
  margin: auto;
